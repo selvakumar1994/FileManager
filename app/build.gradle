@@ -24,8 +24,8 @@ android {
         applicationId "com.amaze.file"
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 100
-        versionName "3.2.1"
+        versionCode 101
+        versionName "3.2.2"
         multiDexEnabled true
 
         vectorDrawables.useSupportLibrary = true
