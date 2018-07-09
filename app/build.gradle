@@ -21,11 +21,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.amaze.file"
-        minSdkVersion 14
+        applicationId "com.cogzidel.file"
+        minSdkVersion 23
         targetSdkVersion 26
-        versionCode 101
-        versionName "3.2.2"
+        versionCode 1
+        versionName "1.0.0"
         multiDexEnabled true
 
         vectorDrawables.useSupportLibrary = true

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.npgall:concurrent-trees:2.6.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.npgall/concurrent-trees/2.6.1/a5cc73a8a1417e2b09bce6d804f0cfd2ecce3260/concurrent-trees-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.npgall/concurrent-trees/2.6.1/d90a7bdf58a40c6c0052c6d39001cc6828b1e85/concurrent-trees-2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

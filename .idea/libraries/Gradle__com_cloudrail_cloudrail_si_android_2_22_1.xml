@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cloudrail:cloudrail-si-android-2.22.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cloudrail-si-android-2.22.1.aar/82750a61a067dd9833daf7e0e1f94605/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cloudrail-si-android-2.22.1.aar/82750a61a067dd9833daf7e0e1f94605/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

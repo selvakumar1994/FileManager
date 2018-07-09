@@ -21,7 +21,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.amaze.file">
+    package="com.cogzidel.file">
 
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -202,7 +202,7 @@
         </receiver>
 
         <receiver
-            android:name="com.amaze.file.ui.notifications.FTPNotification"
+            android:name="com.cogzidel.file.ui.notifications.FTPNotification"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.amaze.file.services.ftpservice.FTPReceiver.FTPSERVER_STARTED" />
@@ -211,7 +211,7 @@
         </receiver>
         
         <provider
-            android:authorities="com.amaze.file.FILE_PROVIDER"
+            android:authorities="com.cogzidel.file.FILE_PROVIDER"
             android:name=".utils.GenericFileProvider"
             android:exported="false"
             android:grantUriPermissions="true">
